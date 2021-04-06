@@ -1,3 +1,4 @@
+Standard README
 # Keycloak
 
 Keycloak is an Open Source Identity and Access Management solution for modern Applications and Services.
@@ -49,6 +50,8 @@ To run tests refer to the [running tests](docs/tests.md) guide.
 ### Writing Tests
 
 To write tests refer to the [writing tests](docs/tests-development.md) guide.
+
+
 
 
 ## Contributing
